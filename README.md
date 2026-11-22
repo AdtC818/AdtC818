@@ -7,7 +7,7 @@ Estudiante de Ingeniería de Sistemas y Computación en la UPTC (Tunja, Boyaca, 
 - Lidero el aseguramiento de calidad (SQA) de un sistema de citas e historias clínicas para un consultorio odontológico real.
 
 ## Proyectos destacados
-- **[Analizador de vulnerabilidades para JavaScript](https://github.com/AdtC818/Application_learn_cybersegurity_students)** (proyecto de grado): detecta 12 vulnerabilidades comunes en código Node.js analizando su AST y explica cómo corregirlas. TypeScript, Express, React y PostgreSQL.
+- **[Analizador de vulnerabilidades para JavaScript](https://github.com/AdtC818/Application_learn_cybersegurity_students)** : detecta 12 vulnerabilidades comunes en código Node.js analizando su AST y explica cómo corregirlas. TypeScript, Express, React y PostgreSQL.
 - **[Plataforma de tutorías](https://github.com/AdtC818/TutoriasRetoV2)**: 3 microservicios (Spring Boot, FastAPI y Express) con RabbitMQ, gateway Nginx, Docker Compose, Prometheus y Grafana. Fui líder del equipo.
 - **[E-commerce con CQRS y Kafka](https://github.com/AdtC818/ARQUITECTURA-CQRS-Y-EDA-EN-SPRINGBOOT-CON-APACHE-KAFKA)**: microservicios en Spring Boot que se comunican por eventos con Apache Kafka; después lo [pasamos a arquitectura hexagonal y DDD](https://github.com/AdtC818/Hexagonal-con-DDD).
 - **[SPEKE en Python](https://github.com/AdtC818/SPEKE-)**: implementación del protocolo de intercambio de claves autenticado por contraseña.
