@@ -12,7 +12,7 @@ Estudiante de Ingeniería de Sistemas y Computación en la UPTC (Tunja, Colombia
 - **[E-commerce con CQRS y Kafka](https://github.com/AdtC818/ARQUITECTURA-CQRS-Y-EDA-EN-SPRINGBOOT-CON-APACHE-KAFKA)**: microservicios en Spring Boot que se comunican por eventos con Apache Kafka; después lo [pasamos a arquitectura hexagonal y DDD](https://github.com/AdtC818/Hexagonal-con-DDD).
 - **[SPEKE en Python](https://github.com/AdtC818/SPEKE-)**: implementación del protocolo de intercambio de claves autenticado por contraseña.
 - **[Red social con Spring Boot](https://github.com/AdtC818/red-social-uptc)**: guarda cada dato en la base que mejor le sirve: MariaDB para usuarios y eventos, MongoDB para hobbies y Neo4j para las amistades, como un grafo.
-- 
+
 ## Tecnologías
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
