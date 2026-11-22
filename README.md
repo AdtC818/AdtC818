@@ -1,6 +1,6 @@
 # Angel David Torres Castellanos
 
-Estudiante de Ingeniería de Sistemas y Computación en la UPTC (Tunja, Colombia). Hago desarrollo Fullstack y de microservicios, aseguramiento de calidad (QA) y me interesa la seguridad de aplicaciones. Busco práctica profesional.
+Estudiante de Ingeniería de Sistemas y Computación en la UPTC (Tunja, Boyaca, Colombia). Hago desarrollo Fullstack y de microservicios, aseguramiento de calidad (QA) y me interesa la seguridad de aplicaciones. Busco práctica profesional.
 
 ## Ahora mismo
 - Desarrollo mi proyecto de grado: un analizador de vulnerabilidades para código JavaScript/Node.js.
